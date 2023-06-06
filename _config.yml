@@ -47,9 +47,9 @@ social-network-links:
   email: "emax2508@gmail.com"
   github: https://Jurgeeen.github.io
   vk: "https://vk.com/mykkkola"
-  telegram: "https://t.me/jurgein"
+  telegram: "jurgein"
   steam: "mykola2281337/"
-  discord: "303254119311867925"
+  discord: "users/303254119311867925"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -73,7 +73,6 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -237,12 +236,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Russia/Moscow"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
 kramdown:
   input: GFM
 
