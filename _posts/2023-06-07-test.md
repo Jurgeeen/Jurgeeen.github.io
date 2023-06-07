@@ -5,7 +5,7 @@ subtitle: My test post with the first random thing on my mind
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
 
 This is a test post. Let's talk about my favourite artist - Bouguereau
